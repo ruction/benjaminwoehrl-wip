@@ -1,4 +1,4 @@
 # benjaminwoehrl-wip
 Simple placeholder page.
 
-![screenshot](/screenshot.png)
+![screenshot](/img/screenshot.png)
