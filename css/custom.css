@@ -46,7 +46,7 @@ small {
 	margin-left: 20px;
 }
 
-.meta {
+.content {
 	margin-left: 50px;
 }
 
@@ -54,4 +54,11 @@ small {
 	* {
 		text-align: center!important;
 	}
+	.logo {
+		margin-left: 0!important;
+	}
+	.content {
+		margin-left: 0!important;
+	}
+	
 }
